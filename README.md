@@ -25,5 +25,4 @@
 </p>
 
 
-<a href="https://youtu.be/4CUqbn7TYYs" target="_blank"><img src="https://youtu.be/4CUqbn7TYYs" 
-alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4CUqbn7TYYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
